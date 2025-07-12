@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\top\\source\\repos\\TradeWise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|c:\\users\\top\\source\\repos\\tradewise\\tradewise\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|solutionrelative:tradewise\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|c:\\users\\top\\source\\repos\\tradewise\\tradewise\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|solutionrelative:tradewise\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|c:\\users\\top\\source\\repos\\tradewise\\tradewise\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|solutionrelative:tradewise\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|c:\\users\\top\\source\\repos\\tradewise\\tradewise\\dto\\commentdto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D4C277-89F4-4B33-AD4E-148550633D33}|TradeWise\\TradeWise.csproj|solutionrelative:tradewise\\dto\\commentdto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "TradeWise\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Controllers\\StockController.cs",
+              "RelativeToolTip": "TradeWise\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAzwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:03:14.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Mappers\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "TradeWise\\Mappers\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Mappers\\CommentMapper.cs",
+              "RelativeToolTip": "TradeWise\\Mappers\\CommentMapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T03:01:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Dto\\CommentDto\\CommentDto.cs",
+              "RelativeDocumentMoniker": "TradeWise\\Dto\\CommentDto\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Dto\\CommentDto\\CommentDto.cs",
+              "RelativeToolTip": "TradeWise\\Dto\\CommentDto\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T02:58:05.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "TradeWise\\Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\top\\source\\repos\\TradeWise\\TradeWise\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "TradeWise\\Repositories\\StockRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T02:57:09.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
